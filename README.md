@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/dhaurali10" target="blank"><img src="https://img.shields.io/twitter/follow/badfreak22?logo=twitter&style=for-the-badge" alt="badfreak22" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dhaurali10" target="blank"><img src="https://img.shields.io/twitter/follow/sakchyamdhaurali?logo=twitter&style=for-the-badge" alt="badfreak22" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
